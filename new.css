@@ -40,7 +40,7 @@ body {
 
   background:
     linear-gradient(135deg, rgba(3, 19, 31, 0.95), rgba(8, 44, 61, 0.9)),
-    url("./img/bg.jpg");
+    url("./img/bg.png");
 
   background-size: cover;
   background-position: center;
